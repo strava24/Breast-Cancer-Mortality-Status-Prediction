@@ -89,9 +89,9 @@ This project follows the **CRISP-DM** (Cross Industry Standard Process for Data 
 
 ## 🛠️ Technologies Used
 
-- Python (Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch)
+- Python (Pandas, NumPy, Scikit-learn)
 - Jupyter Notebook / Google Colab
-- Matplotlib, Seaborn (Data Visualization)
+- Plotly
 
 ---
 
